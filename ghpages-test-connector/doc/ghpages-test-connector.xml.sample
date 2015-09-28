@@ -1,3 +1,0 @@
-<!-- BEGIN_INCLUDE(ghpages-test:greet) -->
-    <ghpages-test:greet config-ref="" friend="#[map-payload:friend]" />
-<!-- END_INCLUDE(ghpages-test:greet) -->
